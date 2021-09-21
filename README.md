@@ -1,3 +1,7 @@
+# Bachelor Thesis
+
+This repo contains my bachelor thesis that was written as a part of my undergraduate degree in Econometrics at Maastricht University. Both paper and the code written in R can be found here. The abstract is provided below.
+
 # Abstract
 
 I investigate the most common problems encountered in binary dependent variable models and proposed solutions. In particular, I examine the bias and inconsistency of the following estimators: linear probability model, non-linear fixed effects, and non-linear random effects. I discuss the bias correction for the non-linear fixed effects model proposed by Fernández-Val (2009) and a solution to the initial conditions problem proposed by Wooldridge (2005). Consequently, I conduct a Monte Carlo simulation to compare the performance of various estimation techniques. The simulation indicates that for the estimations of the coefficients one should use the random effects estimator for small values of T and be indifferent between the random effects estimator and the bias-corrected fixed effects estimator for higher values of T. When marginal effects are the quantity of interest, one should use either the fixed effects estimator or the bias-corrected fixed effects estimator.
