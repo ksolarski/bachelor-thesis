@@ -13,6 +13,6 @@ bias-corrected  xed e ects estimator for higher values of T. When marginal e
 are the quantity of interest, one should use either the  xed e ects estimator or the
 bias-corrected  xed e ects estimator.
 
-#References
+# References
 
-Here references
+Add references
